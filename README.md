@@ -1,21 +1,18 @@
-# Cybersecurity-Capstone-Project
-Capstone project for the cybersecurity specialization, from the University of Maryland, College Park.
+# Cybersecurity Capstone Project | Maryland University
+Author: Nurwidi Asmoro <br />
 
-## Project 📋
-Build a secure messaging system. Users should be able to post messages to other user, and read messages sent to them. The system must be secure so no unauthorized people should be able to read a message.
+Just started on Course 6 Statistical Inference (as of 13/04/2023). All the coursework is aggregated into one repo.
 
-## Functionality 🔧
-• Registration page where users register for the system.
+## Course 
+Course Number | Course | Link to Repo | Blog
+--- | --- | --- | ---
+1 |  The Data Scientist's Toolbox |  [Course Repo](https://github.com/nurwidiasmoro/cybersecurity-capstone-project)
 
-• Login page, where users authenticate.
+## Contributors
+Github Username | Profile Page | Youtube Channel
+--- | --- | ---
+nurwidiasmoro | [Github Profile](https://github.com/nurwidiasmoro) | [Nurwidi Asmoro](https://www.youtube.com/channel/UChVTZOclKdzFbGBpoVdpvKg)
+Submit |  Pull Request | Your Github Profile Here
 
-• Inbox, where users can see messages sent to them.
-
-• Send message page allows users to send messages to other users. One user should be able to address a message to another by username.
-
-• If a user does not remember their login information, there should be some way to reset it.
-
-• Accessible database (/dbdump).
-
-## Access ⚙️
-The project is hosted at: http://cybersecurity-project-felipe.herokuapp.com/ [Database: OFF]
+## License
+Anyone may contribute after each assignment is turned in and graded. Feel free to submit a pull request. 
